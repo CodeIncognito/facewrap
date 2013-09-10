@@ -46,3 +46,5 @@ gem 'unicorn'
 # gem 'debugger', group: [:development, :test]
 
 gem 'therubyracer'
+
+gem 'omniauth-facebook'
